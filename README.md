@@ -1,5 +1,8 @@
-- 👋 老账号@Michael754267513 新账号@shaoxiahuiwugong
-- 换个账号，专心coding ～～～～～
+换个账号，专心coding ～～～～～
+
+-  👋 老账号@Michael754267513
+-  👋 新账号@shaoxiahuiwugong
+
  
 <!---
 Michael754267513/Michael754267513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
